@@ -1,0 +1,32 @@
+# Essentials
+linux-image-amd64
+systemd
+bash
+zsh
+kde-plasma-desktop
+konsole
+dolphin
+kate
+network-manager
+firefox-esr
+vlc
+ffmpeg
+git
+gcc
+make
+nodejs
+npm
+ufw
+fail2ban
+
+# Additionals
+libreoffice
+gimp
+inkscape
+audacity
+htop
+neofetch
+
+# Installer
+calamares
+calamares-settings-debian
